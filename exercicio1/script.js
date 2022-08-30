@@ -1,5 +1,5 @@
 //Pede ao user que insira um numero par
-const numeroPar = prompt("Insira um número par");
+let numeroPar = prompt("Insira um número par");
 numeroPar = Number(numeroPar);
 
 //Imprime o resto da divisão desse numero por 2
